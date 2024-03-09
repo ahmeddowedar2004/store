@@ -1,5 +1,5 @@
 <?php
 
-$conn = mysqli_connect('localhost','root','','shop_db') or die('connection failed');
+$conn = mysqli_connect('sql110.infinityfree.com','if0_35866872','HAhmed2022','if0_35866872_shop_db') or die('connection failed');
 
 ?>
